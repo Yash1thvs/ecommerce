@@ -2,6 +2,7 @@
 *.log
 *.pot
 *.pyc
+.idea/
 __pycache__/
 local_settings.py
 db.sqlite3
@@ -14,7 +15,6 @@ venv/
 env/
 
 # IDE and Editor files
-.idea/  # PyCharm
 .vscode/ # VS Code
 *.sublime-project
 *.sublime-workspace
